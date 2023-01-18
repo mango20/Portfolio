@@ -66,7 +66,7 @@ function Home() {
               </h1>
               <div className="g-3 mt-4">
                 <a
-                  href="https://drive.google.com/file/d/1Y2aa4_JFaYS__gE3mpRQka41PVAI_Guz/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1D1PRnjRxxCcBPZsGKtsPVDtuFprut10k/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   style={{
