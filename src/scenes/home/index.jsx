@@ -57,7 +57,7 @@ function Home() {
                     fontSize: "30px",
                   }}
                 >
-                  a fresh graduate who loves to{" "}
+                  fresh graduate who loves to{" "}
                   <span style={{ color: "#798777", fontWeight: "bold" }}>
                     design & develop{" "}
                   </span>{" "}
