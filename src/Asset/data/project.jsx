@@ -10,7 +10,7 @@ const project = [
     image: kalahok,
     role: "UI/UX Designer",
     description:
-      "A web application that helps the organization to manage the information of the guardians of visually impaired individual",
+      "It is an inclusive, deliberative, and multilingual eParticipation toolkit that creates real-time data analytics for users",
     link: "https://www.figma.com/proto/5sioit4EiLd9qdKuYLZaDm/kALAHOK?node-id=912%3A2085&starting-point-node-id=912%3A2085",
     platform: ["Figma", "Adobe Illustator", "Photoshop"],
   },
