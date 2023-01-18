@@ -33,7 +33,7 @@ const project = [
     role: "Fullstack - Main Developer",
     description:
       "Capstone Project. A web application that helps the organization to manage the information of the guardians of visually impaired individual",
-    link: "https://perseeption.netlify.app/",
+    link: "",
     platform: ["Reactjs", "Express", "Nodejs", "MySQL"],
   },
 ];
