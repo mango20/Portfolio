@@ -49,7 +49,7 @@ function NavHead() {
         collapseOnSelect
         expand="lg"
         variant="light"
-        fixed="top"
+        sticky="top"
         style={{ backgroundColor: "white", cursor: "pointer" }}
       >
         <Container>

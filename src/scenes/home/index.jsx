@@ -19,7 +19,7 @@ function Home() {
   return (
     <div style={{ backgroundColor: "#EEEEEE" }} id="home">
       <Container>
-        <div style={{ padding: "20px 0px 60px 0px" }}>
+        <div style={{ padding: "65px 0px 75px 0px" }}>
           <Row
             xs={1}
             md={2}
@@ -29,7 +29,7 @@ function Home() {
               justifyContent: "center",
             }}
           >
-            <Image src={avatar}></Image>
+            <Image src={avatar} style={{ padding: "30px" }}></Image>
             <div>
               <h1
                 style={{
