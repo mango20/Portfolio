@@ -56,18 +56,30 @@ const ContactUs = () => {
               </Form.Group>
               <Form.Group className="mb-3">
                 <BodyText>Email</BodyText>
-                <Form.Control type="email" name="user_email" />
+                <Form.Control
+                  type="email"
+                  name="user_email"
+                  className="form-control"
+                />
               </Form.Group>
 
               <Form.Group className="mb-3">
                 <BodyText>Message</BodyText>
-                <Form.Control as="textarea" name="message" />
+                <Form.Control
+                  as="textarea"
+                  name="message"
+                  className="form-control"
+                />
               </Form.Group>
               <Button
                 type="submit"
                 className="w-100 mt-3"
-                as={BodyText}
-                style={{ backgroundColor: "#798777", borderColor: "#798777" }}
+                style={{
+                  backgroundColor: "#798777",
+                  borderColor: "#798777",
+                  fontFamily: "Roboto, sans-serif",
+                  fontSize: "20px",
+                }}
               >
                 Send Message
               </Button>
